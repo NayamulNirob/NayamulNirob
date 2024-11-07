@@ -4,7 +4,7 @@
 
 
 
-![logo](https://github.com/NayamulNirob/NayamulNirob/edit/main/github-contribution-grid-snake-dark.svg)
+![logo](https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg)
 
 <table>
   <tr>
