@@ -116,10 +116,10 @@
 
 ![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-### Where to find me
+ ### Numbers
+![NayamulNirob's Stats](https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hasin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/hasin)
+![NayamulNirob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&theme=darcula&hide_border=true)
 
- 
+![NayamulNirob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
