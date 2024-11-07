@@ -1,5 +1,4 @@
-![logo](https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg)
-
+![logo](https://raw.githubusercontent.com/NayamulNirob/NayamulNirob/main/github-contribution-grid-snake-dark.svg)
 
 <table>
   <tr>
