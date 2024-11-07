@@ -3,7 +3,7 @@
 
 
  ### Numbers
-![NayamulNirob's Stats](https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true)![NayamulNirob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&theme=darcula&hide_border=true)![NayamulNirob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![NayamulNirob's Stats](https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true) /nbsp; \nbsp; ![NayamulNirob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&theme=darcula&hide_border=true)![NayamulNirob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 
 
