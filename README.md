@@ -1,20 +1,7 @@
 
 ![logo](https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api?username=shabab239&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api/top-langs/?username=shabab239&count_private=true&hide=html,css,javascript,scss,php&layout=compact&theme=radical&langs_count=4" alt="Top Langs" height="200">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Md. Nayamul Islam</h1> 
