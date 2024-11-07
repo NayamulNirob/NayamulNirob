@@ -2,6 +2,10 @@
 ![logo](https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg)
 
 
+ ### Numbers
+![NayamulNirob's Stats](https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true)![NayamulNirob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&theme=darcula&hide_border=true)![NayamulNirob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Md. Nayamul Islam</h1> 
@@ -109,12 +113,6 @@
 </p>
 
 
-### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
-
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
  ### Numbers
 ![NayamulNirob's Stats](https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true)
