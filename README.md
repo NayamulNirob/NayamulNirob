@@ -5,7 +5,7 @@
 </div>
 
 
-<table border="0" style="border: none"><tr style="border: none"><td style="border: none"><picture style="border: none"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NayamulNirob&show_icons=true&locale=en&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=NayamulNirob&show_icons=true&locale=en" alt="NayamulNirob" /></picture></td><td style="padding-left: 20px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&" alt="NayamulNirob" /></picture></td></tr></table>
+<table border="0" style="border: none"><tr style="border: none"><td style="border: none"><picture style="border: none"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NayamulNirob&show_icons=true&locale=en&theme=darcula&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=NayamulNirob&show_icons=true&locale=en" alt="NayamulNirob" /></picture></td><td style="padding-left: 20px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NayamulNirob&" alt="NayamulNirob" /></picture></td></tr></table>
 
 
 
