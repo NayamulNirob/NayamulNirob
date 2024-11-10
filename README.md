@@ -1,5 +1,3 @@
-[![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)](https://github.com/NayamulNirob)
-
 <div style="display: flex; align-items: center; justify-content:  space-around; mergin-top:auto">
   <img src="https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact" width="300" height="236" />
