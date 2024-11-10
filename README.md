@@ -115,4 +115,4 @@
     
 </p>
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NayamulNirob&theme=theme_name)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NayamulNirob&theme=xcode)
