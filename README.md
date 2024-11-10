@@ -115,6 +115,5 @@
     
 </p>
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NayamulNirob&theme=xcode)
+![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)
 
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NayamulNirob&layout=compact&theme=blue-green)
