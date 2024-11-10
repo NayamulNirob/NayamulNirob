@@ -116,3 +116,5 @@
 </p>
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NayamulNirob&theme=xcode)
+
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NayamulNirob&layout=compact&theme=blue-green)
