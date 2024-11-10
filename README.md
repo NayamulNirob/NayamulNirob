@@ -116,4 +116,5 @@
 </p>
 
 ![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)
+![dino](https://github.com/NayamulNirob/NayamulNirob/blob/main/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)
 
