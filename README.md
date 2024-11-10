@@ -4,6 +4,12 @@
 ![NayamulNirob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact)    ![NayamulNirob's Stats](https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <img src="https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg" width="300" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact" width="300" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true" width="300" height="200" />
+</div>
+
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
