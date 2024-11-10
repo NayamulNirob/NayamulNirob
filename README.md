@@ -1,8 +1,9 @@
-
+<div style="display: flex; align-items: center; justify-content: space-around;">
 ![logo](https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg)
 
 ![NayamulNirob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact)    ![NayamulNirob's Stats](https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
+</div>
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
   <img src="https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg" width="300" height="200" />
