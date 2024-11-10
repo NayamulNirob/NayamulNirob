@@ -1,11 +1,10 @@
 <div style="display: flex; align-items: center; justify-content:  space-around; margin-top:auto">
   <img src="https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-around; ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact" width="300" height="236" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NayamulNirob&theme=highcontrast&hide_border=true" width="600" height="400" />
 </div>
+
+
 
 
 <table border="0" style="border: none">
