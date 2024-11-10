@@ -1,11 +1,12 @@
 
 <div style="display: flex; align-items: center; justify-content:  space-around; mergin-top:auto">
+  [![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)](https://github.com/NayamulNirob)
   <img src="https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact" width="300" height="236" />
   <img src="https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true" width="500" height="200" />
 </div>
 
-[![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)](https://github.com/NayamulNirob)
+
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Md. Nayamul Islam</h1> 
