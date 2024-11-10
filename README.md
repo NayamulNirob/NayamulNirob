@@ -1,5 +1,5 @@
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github.com/NayamulNirob/NayamulNirob/blob/main/github-contribution-grid-snake-dark.svg" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&layout=compact" width="300" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=NayamulNirob&theme=darcula&show_icons=true&hide_border=true&count_private=true" width="500" height="200" />
